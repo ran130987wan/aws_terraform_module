@@ -6,7 +6,7 @@ terraform {
     },
     github = {
       source = "integrations/github"
-      version = "~> 6.0" # Use a version constraint appropriate for your needs
+      version = "~> 6.0"
     }
   }
 }
